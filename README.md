@@ -64,4 +64,4 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 ### Instructions
 
-Follow the instructions in `Continuous_Control.ipynb` to get started with training your own agent!  
+Follow the instructions in `Continuous_Control.ipynb` to get started with runing and training your own agent! In this process, the second version training environment with 20 identical agents are used to accomplish the training process.
